@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ch_forest_follies_1</folder>
+	<filename>image-178.jpg</filename>
+	<path>/Users/volker/Documents/cuphead_deep_learning/ch_forest_follies_1/image-178.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mugman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1209</xmin>
+			<ymin>951</ymin>
+			<xmax>1452</xmax>
+			<ymax>1213</ymax>
+		</bndbox>
+	</object>
+</annotation>
